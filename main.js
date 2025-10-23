@@ -1,7 +1,7 @@
 // ============================================
 // 🎬 رابط الفيديو - عدّله هنا
 // ============================================
-const VIDEO_URL = 'https://cdn.bitmovin.com/content/assets/playhouse-vr/progressive.mp4';
+const VIDEO_URL = 'https://beisat.click/vrtest.mp4';
 
 // ============================================
 // CONFIGURATION & DEVICE DETECTION
@@ -765,5 +765,6 @@ if (document.readyState === 'loading') {
 } else {
     init();
 }
+
 
 console.log('📜 Script loaded');
